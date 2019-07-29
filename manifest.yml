@@ -1,0 +1,10 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: MyAppSWLEJ
+  buildpack: liberty-for-java
+  # path: .
+  memory: 512M
+  domain: us-south.cf.appdomain.cloud
+  host: my-app-swlej
