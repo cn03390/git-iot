@@ -1,12 +1,9 @@
-application/Servlet.class
 application/rest/JaxrsApplication.class
-application/Sevlet3.class
+application/Sevlet.class
+application/Test2345.class
 application/HealthEndpoint.class
-application/Wastona.class
-application/URLSevlet.class
 application/rest/RootEndpoint.class
 application/Waston.class
-application/PostRequestIOT.class
-application/Sevlet2.class
 application/DetectFace.class
+application/Tes.class
 application/Test1Object.class
